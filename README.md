@@ -10,5 +10,5 @@ My portfolio consists of a home page, a portfolio page, and a link to my resume.
 
 Github url: https://github.com/Herve8/My-portfolio
 
-Deployment url: 
+Deployment url: https://herve8.github.io/My-portfolio/
 
